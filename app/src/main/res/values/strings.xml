@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">Breanna Gonzalez - Temperature Conversion</string>
+    <string name="input_value">Enter the value to calculate</string>
+    <string name="submit">Submit</string>
+    <string name="fToC">Fahrenheit to Celsius</string>
+    <string name="cToF">Celsius to Fahrenheit</string>
+</resources>
